@@ -1,7 +1,7 @@
 # Citrine Handbook
 
 Practical documentation for **Citrine**, the on-device Android trading app for
-Coinbase Advanced U.S. BTC and ETH perpetual futures, published by Citrine Edge.
+eligible Coinbase Advanced BTC and ETH perpetual futures, published by Citrine Edge.
 
 Start with a simulated session, understand what each mode controls, and learn to
 read a result without confusing trading PnL, costs and funding. These guides are
@@ -20,6 +20,7 @@ source code. This is not an API integration library or a downloadable trading bo
 ## Official Resources
 
 - [Citrine website](https://citrineedge.com/)
+- [Country availability](https://citrineedge.com/availability/)
 - [Install through Google Play](https://play.google.com/store/apps/details?id=com.citrineedge.citrine)
 - [Coinbase API-key setup](https://citrineedge.com/coinbase-api-setup/)
 - [Security and local credentials](https://citrineedge.com/security/)
@@ -30,9 +31,14 @@ source code. This is not an API integration library or a downloadable trading bo
 The website contains current availability, plan terms, privacy information and
 disclosures. Citrine is not affiliated with or endorsed by Coinbase.
 
+Access depends on country and Coinbase account/product eligibility. Canadian
+access is limited to qualifying accounts and supported provinces or territories.
+Futures trading and account values, including simulated amounts, are in USD.
+Check current country availability before installing or connecting an account.
+
 ## Documentation Scope
 
-Last reviewed: September 29, 2026. Examples are explicitly hypothetical arithmetic,
+Last reviewed: October 14, 2026. Examples are explicitly hypothetical arithmetic,
 not account exports, trading recommendations or performance claims. Corrections
 to these documents are welcome; see [Contributing](CONTRIBUTING.md).
 
