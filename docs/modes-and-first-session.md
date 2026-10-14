@@ -14,7 +14,8 @@ introduces the interface with an example account and does not require a trade.
 
 ## Before A Paper Session
 
-- Open the Guided Demo from Support if the workspace is unfamiliar.
+- Open Tutorial from Support to start the guided demo if the workspace is
+  unfamiliar.
 - Choose a starting balance and allocation deliberately. Keep those values if
   you plan to compare sessions later.
 - Read the mode and runtime status. A displayed chart alone does not mean a
@@ -25,8 +26,12 @@ introduces the interface with an example account and does not require a trade.
 
 ## Before Account-Connected Use
 
-- Confirm you are using the eligible Coinbase Advanced U.S. futures account,
-  not a similarly named international or spot product.
+- Confirm you are using an eligible Coinbase Advanced account for supported BTC
+  and ETH Coinbase Derivatives Exchange (CDE) perpetual contracts, not spot
+  products or Coinbase International Exchange (INTX) products.
+- Check [current country availability](https://citrineedge.com/availability/)
+  before connecting an account. Canadian access is limited to qualifying accounts
+  and supported provinces or territories.
 - Follow the [current key setup](https://citrineedge.com/coinbase-api-setup/).
   Import credentials in the app, never into an issue, message or support form.
 - View permission supports account access. Live trading also needs Trade.
