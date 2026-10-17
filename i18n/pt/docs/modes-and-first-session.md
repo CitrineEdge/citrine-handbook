@@ -15,13 +15,16 @@
 | Observation | Vista da conta real | Não, incluindo fechos manuais ou gestão de proteções | Monitorizar a conta sem tornar este dispositivo num dispositivo de execução |
 | Standard | Conta real | Sim, quando o Complete e o acesso elegível à negociação estão ativos | Executar entradas reais e a gestão de posições permitida |
 
+Nos detalhes do portefólio, Standard e Observation aparecem como **Padrão** e
+**Observação**; o controlo do modo mantém o nome **Modo Observation**.
+
 O backtesting é uma reprodução histórica, não um quinto modo de conta real.
 A demonstração guiada (Guided Demo) apresenta a interface com uma conta de
 exemplo e não exige qualquer operação.
 
 ## Antes de uma sessão Paper
 
-- Abra Tutorial a partir de Support para iniciar a demonstração guiada se ainda
+- Abra **Tutorial** a partir de **Apoio** para iniciar a demonstração guiada se ainda
   não conhecer a área de trabalho.
 - Escolha deliberadamente o saldo inicial e a afetação de fundos. Mantenha esses
   valores se pretender comparar sessões mais tarde.
@@ -53,8 +56,8 @@ exemplo e não exige qualquer operação.
 
 ## Pausar e sair são ações diferentes
 
-**Pause** suspende novas entradas; a gestão permitida das posições reais pode
-continuar. **Exit Citrine** para a execução local. Não fecha automaticamente
+**Pausar negociação** suspende novas entradas; a gestão permitida das posições reais pode
+continuar. **Sair da Citrine** para a execução local. Não fecha automaticamente
 posições abertas nem cancela ordens existentes na plataforma de negociação.
 
 Uma proteção aceite e alojada na Coinbase é diferente da gestão no dispositivo.

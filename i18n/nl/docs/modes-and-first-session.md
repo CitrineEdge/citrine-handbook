@@ -15,13 +15,16 @@
 | Observation | Weergave van het echte account | Nee, ook geen handmatige sluitingen of beheer van bescherming | Het account volgen zonder dit apparaat orders te laten uitvoeren |
 | Standard | Echt account | Ja, wanneer Complete en toegestane handelstoegang actief zijn | Echte instappen en toegestaan positiebeheer uitvoeren |
 
+In de portfoliodetails staan Standard en Observation als **Standaard** en
+**Observatie**; de modusschakelaar heet **Modus Observation**.
+
 Backtesting is een historische simulatie, geen vijfde modus voor een echt account.
 De begeleide demo (Guided Demo) introduceert de interface met een voorbeeldaccount
 en vereist geen transactie.
 
 ## Vóór een Paper-sessie
 
-- Open Tutorial via Support om de begeleide demo te starten als de werkomgeving
+- Open **Handleiding** via **Ondersteuning** om de begeleide demo te starten als de werkomgeving
   nog onbekend is.
 - Kies bewust een beginsaldo en toewijzing. Houd die waarden aan als u later
   sessies wilt vergelijken.
@@ -52,8 +55,8 @@ en vereist geen transactie.
 
 ## Pauzeren en afsluiten zijn verschillend
 
-**Pause** houdt nieuwe instappen tegen; toegestaan beheer van echte posities
-kan doorgaan. **Exit Citrine** stopt de lokale uitvoering. Het sluit open posities
+**Handel pauzeren** houdt nieuwe instappen tegen; toegestaan beheer van echte posities
+kan doorgaan. **Citrine afsluiten** stopt de lokale uitvoering. Het sluit open posities
 niet automatisch en annuleert geen bestaande beursorders.
 
 Door Coinbase geaccepteerde en gehoste bescherming is iets anders dan beheer op

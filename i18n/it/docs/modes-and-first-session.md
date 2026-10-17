@@ -15,13 +15,16 @@
 | Observation | Vista del conto reale | No, nemmeno chiusure manuali o gestione delle protezioni | Monitorare il conto senza rendere questo dispositivo un dispositivo di esecuzione |
 | Standard | Conto reale | Sì, quando Complete e l'accesso al trading idoneo sono attivi | Eseguire ingressi reali e la gestione delle posizioni consentita |
 
+Nei dettagli del portafoglio, Observation appare come **Osservazione**;
+il controllo della modalità mantiene il nome **Modalità Observation**.
+
 Il backtesting è una riproduzione storica, non una quinta modalità per conti reali.
 La demo guidata (Guided Demo) presenta l'interfaccia con un conto di esempio e
 non richiede un'operazione di trading.
 
 ## Prima di una sessione Paper
 
-- Apri Tutorial da Support per avviare la demo guidata se non conosci l'area di lavoro.
+- Apri **Tutorial** da **Assistenza** per avviare la demo guidata se non conosci l'area di lavoro.
 - Scegli consapevolmente saldo iniziale e allocazione. Mantieni questi valori
   se intendi confrontare le sessioni in seguito.
 - Leggi la modalità e lo stato di esecuzione. La sola presenza di un grafico non
@@ -53,8 +56,8 @@ non richiede un'operazione di trading.
 
 ## Pausa e uscita sono azioni diverse
 
-**Pause** sospende i nuovi ingressi; la gestione consentita delle posizioni reali
-può continuare. **Exit Citrine** arresta l'esecuzione locale. Non chiude
+**Pausa trading** sospende i nuovi ingressi; la gestione consentita delle posizioni reali
+può continuare. **Esci da Citrine** arresta l'esecuzione locale. Non chiude
 automaticamente le posizioni aperte né annulla gli ordini già presenti sulla piattaforma.
 
 Le protezioni accettate e ospitate da Coinbase sono diverse dalla gestione sul

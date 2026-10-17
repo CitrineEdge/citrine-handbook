@@ -15,13 +15,16 @@
 | Observation | Ansicht des tatsächlichen Kontos | Nein, auch keine manuellen Schließungen oder Schutzverwaltung | Das Konto beobachten, ohne dieses Gerät zum Ausführungsgerät zu machen |
 | Standard | Tatsächliches Konto | Ja, wenn Complete und berechtigter Handelszugang aktiv sind | Echte Einstiege und unterstützte Positionsverwaltung ausführen |
 
+In den Portfoliodetails heißt Observation **Beobachtung**; der Modusschalter
+heißt weiterhin **Modus Observation**.
+
 Backtesting ist eine historische Wiedergabe, kein fünfter Echtkonto-Modus.
 Die geführte Demo (Guided Demo) stellt die Oberfläche anhand eines Beispielkontos
 vor und erfordert keinen Trade.
 
 ## Vor einer Paper-Sitzung
 
-- Öffnen Sie Tutorial unter Support, um die geführte Demo zu starten, wenn Ihnen
+- Öffnen Sie **Anleitung** unter **Support**, um die geführte Demo zu starten, wenn Ihnen
   der Arbeitsbereich noch nicht vertraut ist.
 - Wählen Sie Startkapital und Zuteilung bewusst. Behalten Sie diese Werte bei,
   wenn Sie später Sitzungen vergleichen möchten.
@@ -55,8 +58,8 @@ vor und erfordert keinen Trade.
 
 ## Pause und Beenden sind verschieden
 
-**Pause** hält neue Einstiege an; die unterstützte Verwaltung echter Positionen
-kann weiterlaufen. **Exit Citrine** stoppt die lokale Laufzeit. Offene Positionen
+**Handel pausieren** hält neue Einstiege an; die unterstützte Verwaltung echter Positionen
+kann weiterlaufen. **Citrine beenden** stoppt die lokale Laufzeit. Offene Positionen
 werden dadurch nicht automatisch geschlossen und bestehende Börsenorders nicht storniert.
 
 Von Coinbase angenommener und dort gehosteter Schutz ist etwas anderes als die

@@ -21,7 +21,7 @@ nécessite aucune opération de trading.
 
 ## Avant une session Paper
 
-- Ouvrez Tutorial depuis Support pour lancer la démo guidée si vous ne connaissez
+- Ouvrez **Tutoriel** depuis **Assistance** pour lancer la démo guidée si vous ne connaissez
   pas encore l'espace de travail.
 - Choisissez délibérément le solde initial et l'allocation. Conservez ces valeurs
   si vous comptez comparer les sessions par la suite.
@@ -53,8 +53,8 @@ nécessite aucune opération de trading.
 
 ## Pause et quitter sont deux actions différentes
 
-**Pause** suspend les nouvelles entrées ; la gestion des positions réelles prise
-en charge peut continuer. **Exit Citrine** arrête l'exécution locale. Cette action
+**Suspendre le trading** suspend les nouvelles entrées ; la gestion des positions réelles prise
+en charge peut continuer. **Quitter Citrine** arrête l'exécution locale. Cette action
 ne clôture pas automatiquement les positions ouvertes et n'annule pas les ordres
 existants sur la plateforme d'échange.
 

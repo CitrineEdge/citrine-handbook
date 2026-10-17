@@ -15,13 +15,16 @@
 | Observation | Widok rzeczywistego konta | Nie, również bez ręcznego zamykania i zarządzania zabezpieczeniami | Monitorowanie konta bez używania tego urządzenia do wykonywania zleceń |
 | Standard | Rzeczywiste konto | Tak, gdy aktywne są Complete i uprawniony dostęp do handlu | Rzeczywiste otwieranie pozycji i dozwolone zarządzanie nimi |
 
+W szczegółach portfela Standard i Observation są wyświetlane jako **Standardowy**
+i **Obserwacja**; przełącznik nadal ma etykietę **Tryb Observation**.
+
 Backtesting to odtwarzanie historii, a nie piąty tryb konta rzeczywistego.
 Demonstracja z przewodnikiem (Guided Demo) przedstawia interfejs na przykładowym
 koncie i nie wymaga zawarcia transakcji.
 
 ## Przed sesją Paper
 
-- Otwórz Tutorial w sekcji Support, aby uruchomić demonstrację z przewodnikiem,
+- Otwórz **Samouczek** w sekcji **Pomoc**, aby uruchomić demonstrację z przewodnikiem,
   jeśli nie znasz obszaru roboczego.
 - Świadomie wybierz saldo początkowe i alokację. Zachowaj te wartości, jeśli
   planujesz późniejsze porównywanie sesji.
@@ -53,8 +56,8 @@ koncie i nie wymaga zawarcia transakcji.
 
 ## Pauza i wyjście to różne działania
 
-**Pause** wstrzymuje nowe wejścia; dozwolone zarządzanie rzeczywistymi pozycjami
-może trwać dalej. **Exit Citrine** zatrzymuje lokalne działanie. Nie zamyka
+**Wstrzymaj handel** wstrzymuje nowe wejścia; dozwolone zarządzanie rzeczywistymi pozycjami
+może trwać dalej. **Wyjdź z Citrine** zatrzymuje lokalne działanie. Nie zamyka
 automatycznie otwartych pozycji ani nie anuluje istniejących zleceń na giełdzie.
 
 Zabezpieczenie zaakceptowane i utrzymywane przez Coinbase różni się od zarządzania
