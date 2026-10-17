@@ -16,7 +16,9 @@
 | Standard | Cuenta real | Sí, cuando Complete y el acceso al trading autorizado están activos | Ejecutar entradas reales y la gestión de posiciones admitida |
 
 En los detalles de la cartera, Standard aparece como **Estándar** y Observation
-como **Observación**; el control de modo conserva el nombre **Modo Observation**.
+como **Observación**. En los ajustes hay tres interruptores: **Modo Observation**,
+**Modo Shadow** y **Modo Paper**. Standard es el modo base cuando ninguno de esos
+modos está activo; no tiene un interruptor propio.
 
 El backtesting es una reproducción histórica, no un quinto modo de cuenta real.
 La demostración guiada (Guided Demo) presenta la interfaz con una cuenta de

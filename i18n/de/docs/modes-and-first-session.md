@@ -15,8 +15,10 @@
 | Observation | Ansicht des tatsächlichen Kontos | Nein, auch keine manuellen Schließungen oder Schutzverwaltung | Das Konto beobachten, ohne dieses Gerät zum Ausführungsgerät zu machen |
 | Standard | Tatsächliches Konto | Ja, wenn Complete und berechtigter Handelszugang aktiv sind | Echte Einstiege und unterstützte Positionsverwaltung ausführen |
 
-In den Portfoliodetails heißt Observation **Beobachtung**; der Modusschalter
-heißt weiterhin **Modus Observation**.
+In den Portfoliodetails heißt Observation **Beobachtung**. In den Einstellungen
+gibt es drei Schalter: **Modus Observation**, **Modus Shadow** und **Modus Paper**.
+Standard ist der Basismodus, wenn keiner dieser Modi aktiv ist; einen eigenen
+Standard-Schalter gibt es nicht.
 
 Backtesting ist eine historische Wiedergabe, kein fünfter Echtkonto-Modus.
 Die geführte Demo (Guided Demo) stellt die Oberfläche anhand eines Beispielkontos

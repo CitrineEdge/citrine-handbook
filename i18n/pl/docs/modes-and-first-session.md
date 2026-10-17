@@ -16,7 +16,9 @@
 | Standard | Rzeczywiste konto | Tak, gdy aktywne są Complete i uprawniony dostęp do handlu | Rzeczywiste otwieranie pozycji i dozwolone zarządzanie nimi |
 
 W szczegółach portfela Standard i Observation są wyświetlane jako **Standardowy**
-i **Obserwacja**; przełącznik nadal ma etykietę **Tryb Observation**.
+i **Obserwacja**. W ustawieniach są trzy przełączniki: **Tryb Observation**,
+**Tryb Shadow** i **Tryb Paper**. Standard jest trybem podstawowym, gdy żaden z tych
+trybów nie jest aktywny; nie ma osobnego przełącznika Standard.
 
 Backtesting to odtwarzanie historii, a nie piąty tryb konta rzeczywistego.
 Demonstracja z przewodnikiem (Guided Demo) przedstawia interfejs na przykładowym

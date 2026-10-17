@@ -16,7 +16,9 @@
 | Standard | Echt account | Ja, wanneer Complete en toegestane handelstoegang actief zijn | Echte instappen en toegestaan positiebeheer uitvoeren |
 
 In de portfoliodetails staan Standard en Observation als **Standaard** en
-**Observatie**; de modusschakelaar heet **Modus Observation**.
+**Observatie**. De instellingen hebben drie schakelaars: **Modus Observation**,
+**Modus Shadow** en **Modus Paper**. Standard is de basismodus wanneer geen van
+deze modi actief is; er is geen aparte Standard-schakelaar.
 
 Backtesting is een historische simulatie, geen vijfde modus voor een echt account.
 De begeleide demo (Guided Demo) introduceert de interface met een voorbeeldaccount

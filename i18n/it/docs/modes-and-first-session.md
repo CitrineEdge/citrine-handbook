@@ -15,8 +15,10 @@
 | Observation | Vista del conto reale | No, nemmeno chiusure manuali o gestione delle protezioni | Monitorare il conto senza rendere questo dispositivo un dispositivo di esecuzione |
 | Standard | Conto reale | Sì, quando Complete e l'accesso al trading idoneo sono attivi | Eseguire ingressi reali e la gestione delle posizioni consentita |
 
-Nei dettagli del portafoglio, Observation appare come **Osservazione**;
-il controllo della modalità mantiene il nome **Modalità Observation**.
+Nei dettagli del portafoglio, Observation appare come **Osservazione**. Nelle
+impostazioni ci sono tre interruttori: **Modalità Observation**, **Modalità Shadow**
+e **Modalità Paper**. Standard è la modalità di base quando nessuna di queste
+modalità è attiva; non ha un interruttore dedicato.
 
 Il backtesting è una riproduzione storica, non una quinta modalità per conti reali.
 La demo guidata (Guided Demo) presenta l'interfaccia con un conto di esempio e

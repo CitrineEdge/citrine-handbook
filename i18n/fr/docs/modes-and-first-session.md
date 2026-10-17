@@ -15,6 +15,10 @@
 | Observation | Vue du compte réel | Non, y compris pour les clôtures manuelles ou la gestion des protections | Surveiller le compte sans faire de cet appareil un appareil d'exécution |
 | Standard | Compte réel | Oui, lorsque Complete et l'accès au trading éligible sont actifs | Exécuter des entrées réelles et la gestion des positions prise en charge |
 
+Les réglages proposent trois interrupteurs : **Mode Observation**, **Mode Shadow**
+et **Mode Paper**. Standard est le mode de base lorsqu'aucun de ces modes n'est
+actif ; il n'a pas d'interrupteur dédié.
+
 Le backtesting est une relecture historique, pas un cinquième mode de compte réel.
 La démo guidée (Guided Demo) présente l'interface avec un compte d'exemple et ne
 nécessite aucune opération de trading.

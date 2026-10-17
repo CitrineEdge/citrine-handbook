@@ -16,7 +16,9 @@
 | Standard | Conta real | Sim, quando o Complete e o acesso elegível à negociação estão ativos | Executar entradas reais e o gerenciamento de posições permitido |
 
 Nos detalhes da carteira, Standard e Observation aparecem como **Padrão** e
-**Observação**; o controle do modo mantém o nome **Modo Observation**.
+**Observação**. Nas configurações há três interruptores: **Modo Observation**,
+**Modo Shadow** e **Modo Paper**. Standard é o modo básico quando nenhum desses
+modos está ativo; não há um interruptor separado para Standard.
 
 O backtesting é uma reprodução histórica, não um quinto modo de conta real.
 A demonstração guiada (Guided Demo) apresenta a interface com uma conta de
