@@ -1,5 +1,11 @@
 # Citrine Modes And First-Session Checklist
 
+<!-- language-navigation -->
+[English](modes-and-first-session.md) | [Français](../i18n/fr/docs/modes-and-first-session.md) | [Deutsch](../i18n/de/docs/modes-and-first-session.md) | [Nederlands](../i18n/nl/docs/modes-and-first-session.md) |
+[Español](../i18n/es/docs/modes-and-first-session.md) | [Español (España)](../i18n/es-ES/docs/modes-and-first-session.md) | [Italiano](../i18n/it/docs/modes-and-first-session.md) |
+[Português (Portugal)](../i18n/pt/docs/modes-and-first-session.md) | [Português (Brasil)](../i18n/pt-BR/docs/modes-and-first-session.md) | [Polski](../i18n/pl/docs/modes-and-first-session.md)
+<!-- /language-navigation -->
+
 ## Pick The Responsibility, Not Just The Balance
 
 | Mode | Starting point | Sends real orders? | Appropriate use |

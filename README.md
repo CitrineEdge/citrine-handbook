@@ -1,5 +1,13 @@
 # Citrine Handbook
 
+<!-- language-navigation -->
+[English](README.md) | [Français](i18n/fr/README.md) | [Deutsch](i18n/de/README.md) | [Nederlands](i18n/nl/README.md) |
+[Español](i18n/es/README.md) | [Español (España)](i18n/es-ES/README.md) | [Italiano](i18n/it/README.md) |
+[Português (Portugal)](i18n/pt/README.md) | [Português (Brasil)](i18n/pt-BR/README.md) | [Polski](i18n/pl/README.md)
+
+Language editions reviewed: October 16, 2026. Language does not change country or account eligibility.
+<!-- /language-navigation -->
+
 Practical documentation for **Citrine**, the on-device Android trading app for
 eligible Coinbase Advanced BTC and ETH perpetual futures, published by Citrine Edge.
 

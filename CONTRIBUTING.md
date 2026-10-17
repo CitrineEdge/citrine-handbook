@@ -1,5 +1,11 @@
 # Documentation Contributions
 
+<!-- language-navigation -->
+[English](CONTRIBUTING.md) | [Français](i18n/fr/CONTRIBUTING.md) | [Deutsch](i18n/de/CONTRIBUTING.md) | [Nederlands](i18n/nl/CONTRIBUTING.md) |
+[Español](i18n/es/CONTRIBUTING.md) | [Español (España)](i18n/es-ES/CONTRIBUTING.md) | [Italiano](i18n/it/CONTRIBUTING.md) |
+[Português (Portugal)](i18n/pt/CONTRIBUTING.md) | [Português (Brasil)](i18n/pt-BR/CONTRIBUTING.md) | [Polski](i18n/pl/CONTRIBUTING.md)
+<!-- /language-navigation -->
+
 Corrections, clearer explanations and reproducible documentation issues are
 welcome. Keep proposed changes focused on a user task and cite an authoritative
 source for version-sensitive product claims.

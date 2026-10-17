@@ -1,5 +1,11 @@
 # Reading Backtests, Fees And Funding
 
+<!-- language-navigation -->
+[English](reading-results.md) | [Français](../i18n/fr/docs/reading-results.md) | [Deutsch](../i18n/de/docs/reading-results.md) | [Nederlands](../i18n/nl/docs/reading-results.md) |
+[Español](../i18n/es/docs/reading-results.md) | [Español (España)](../i18n/es-ES/docs/reading-results.md) | [Italiano](../i18n/it/docs/reading-results.md) |
+[Português (Portugal)](../i18n/pt/docs/reading-results.md) | [Português (Brasil)](../i18n/pt-BR/docs/reading-results.md) | [Polski](../i18n/pl/docs/reading-results.md)
+<!-- /language-navigation -->
+
 A meaningful comparison starts with the same instrument, dates, timezone, starting
 funds, allocation and cost assumptions. Paper, Shadow, historical replay and live
 execution do not have identical inputs or fills.

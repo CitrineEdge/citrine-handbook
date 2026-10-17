@@ -1,5 +1,11 @@
 # Safe Troubleshooting For On-Device Trading
 
+<!-- language-navigation -->
+[English](safe-troubleshooting.md) | [Français](../i18n/fr/docs/safe-troubleshooting.md) | [Deutsch](../i18n/de/docs/safe-troubleshooting.md) | [Nederlands](../i18n/nl/docs/safe-troubleshooting.md) |
+[Español](../i18n/es/docs/safe-troubleshooting.md) | [Español (España)](../i18n/es-ES/docs/safe-troubleshooting.md) | [Italiano](../i18n/it/docs/safe-troubleshooting.md) |
+[Português (Portugal)](../i18n/pt/docs/safe-troubleshooting.md) | [Português (Brasil)](../i18n/pt-BR/docs/safe-troubleshooting.md) | [Polski](../i18n/pl/docs/safe-troubleshooting.md)
+<!-- /language-navigation -->
+
 A clear report is more useful than a full account dump. Record the behavior before
 changing settings or reinstalling an app, which can remove useful local evidence.
 
